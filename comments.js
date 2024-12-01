@@ -4,3 +4,6 @@
 // return users
 // return likes
 // return followers
+// return following
+// return messages
+// return notifications
